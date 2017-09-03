@@ -1,4 +1,4 @@
-# Ng4demo
+# Angular 2 Template Form Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
